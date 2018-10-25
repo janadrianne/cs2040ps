@@ -21,6 +21,7 @@ public class Pair implements Comparable<Pair>{
 	public int compareTo(Pair other){
 		if(first - other.first > 0)
 			return 1;
+		// if other is greater than
 		else if(first - other.first < 0)
 			return -1;
 		else
