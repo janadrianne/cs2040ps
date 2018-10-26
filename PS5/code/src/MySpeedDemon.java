@@ -1,6 +1,55 @@
 import java.io.*;
 import java.util.*;
 
+public class MyString {
+    private String data;
+    private int length;
+
+    // constructor
+    public MyString(String data) {
+        this.data = data.toLowerCase();
+        length = data.length();
+    }
+
+    // getters and setters
+    public String getData() {
+        return data;
+    }
+
+    public void setData(String data) {
+        this.data = data;
+    }
+
+    public int getLength() {
+        return length;
+    }
+
+    @Override
+    public int HashCode() {
+        // assumption: data is always lowercase (see: constructor)
+        int result = 17;
+        int hash;
+        for (int charIndex = 0; charIndex < length; charIndex++) {
+            hash = (int) data.charAt(charIndex);
+            result *= hash + result;
+        }
+        // complexity to lower probablility of collision
+        result *= length + result;
+        return result;
+    }
+
+    @Override
+    public boolean equals(MyString otherString) {
+        if (!otherString.instanceOf(MyString) || length != otherString.getLength()) {
+            return false;
+        }
+
+        if (HashCode() == otherString.HashCode()) {
+            return true;
+        }
+    }
+}
+
 public class MySpeedDemon {
     // Your code
 //    HashMap<Integer, ArrayList<HashMap<Integer, ArrayList<Character>>>> map = new HashMap<>();
