@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ed200f-24ee-49d8-b393-6e8e2e806539" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../PS4/code/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PS4/code/src/.idea/libraries/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PS4/code/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PS1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/Herbert.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/PS2_2040_S11819.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/genTestCase.pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/out/production/Herbert/Clownculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/out/production/Herbert/ClownculatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/out/production/Herbert/HerbertLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/out/production/Herbert/Record.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/ps2_testcases/longNamesHerbert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/ps2_testcases/manyNamesHerbert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/ps2_testcases/shortNamesHerbert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/ps2_testcases/veryShortNamesHerbert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/src/Clownculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/src/ClownculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/src/HerbertLog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS2 2/src/Record.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PS3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PS3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/MystSorts/src/Detective.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PS3/MystSorts/src/Detective.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/MystSorts/src/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PS3/MystSorts/src/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/MystSorts/src/testSorters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PS3/MystSorts/src/testSorters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/DefaultSort$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/DefaultSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/Detective.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/DivineInterventionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/GamblerSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/ISort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/IntelligentDesignSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/StopWatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PS3/out/production/MystSorts/testSorters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ShatteredCake/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ShatteredCake/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ShatteredCake/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ShatteredCake/ShatteredCake.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ShatteredCake/out/production/ShatteredCake/CakeCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ShatteredCake/src/CakeCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDB_5.in" beforeDir="false" afterPath="$PROJECT_DIR$/TestDB_5.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/ps5/MySpeedDemon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MySpeedDemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MySpeedDemon.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,14 +29,15 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="in" value="6" />
+          <entry key="in" value="8" />
           <entry key="java" value="3" />
         </counts>
       </usages-collector>
@@ -88,17 +45,19 @@
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="JAVA" value="3" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2568" />
+          <entry key="in" value="3" />
+          <entry key="java" value="4083" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2568" />
+          <entry key="JAVA" value="4083" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -108,26 +67,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MySpeedDemon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+            <state relative-caret-position="225">
+              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#635#643#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestDB_5.in">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestDB_1.in">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -144,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="120">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -169,6 +113,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>s7)</find>
+      <find>xu</find>
+      <find>z</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -178,13 +129,14 @@
         <option value="$PROJECT_DIR$/src/Speed.java" />
         <option value="$PROJECT_DIR$/src/SpeedDemon.java" />
         <option value="$PROJECT_DIR$/ps3.iml" />
-        <option value="$PROJECT_DIR$/TestDB_1.in" />
         <option value="$PROJECT_DIR$/TestDB_1.out" />
         <option value="$PROJECT_DIR$/TestDB_2.out" />
         <option value="$PROJECT_DIR$/TestDB_4.out" />
         <option value="$PROJECT_DIR$/TestDB_4.in" />
         <option value="$PROJECT_DIR$/TestDB_2.in" />
         <option value="$PROJECT_DIR$/src/MySpeedDemonTest.java" />
+        <option value="$PROJECT_DIR$/TestDB_1.in" />
+        <option value="$PROJECT_DIR$/TestDB_5.in" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/MySpeedDemon.java" />
       </list>
@@ -196,8 +148,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="686" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -206,8 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,7 +178,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,7 +189,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540456695313" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540527389007" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -394,48 +346,50 @@
       <updated>1507510763250</updated>
       <workItem from="1539942246115" duration="5178000" />
       <workItem from="1540376283341" duration="12728000" />
+      <workItem from="1540477334497" duration="12443000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MySpeedDemonTest_testSpeedMatch1 - 2018.10.24 at 20h 17m 46s.xml">
-      <configuration name="MySpeedDemonTest.testSpeedMatch1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MySpeedDemonTest_testSpeedMatch1 - 2018.10.24 at 20h 20m 08s.xml">
-      <configuration name="MySpeedDemonTest.testSpeedMatch1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MySpeedDemonTest_testSpeedMatch1 - 2018.10.24 at 20h 34m 59s.xml">
-      <configuration name="MySpeedDemonTest.testSpeedMatch1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MySpeedDemonTest_testSpeedMatch1 - 2018.10.24 at 20h 38m 35s.xml">
-      <configuration name="MySpeedDemonTest.testSpeedMatch1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MySpeedDemonTest_testSpeedMatch1 - 2018.10.25 at 10h 16m 07s.xml">
-      <configuration name="MySpeedDemonTest.testSpeedMatch1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MySpeedDemonTest_testSpeedMatch1 - 2018.10.25 at 11h 01m 41s.xml">
-      <configuration name="MySpeedDemonTest.testSpeedMatch1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MySpeedDemonTest_testSpeedMatch1 - 2018.10.25 at 11h 01m 54s.xml">
-      <configuration name="MySpeedDemonTest.testSpeedMatch1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MySpeedDemonTest_testSpeedMatch2 - 2018.10.25 at 11h 02m 03s.xml">
-      <configuration name="MySpeedDemonTest.testSpeedMatch2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MySpeedDemonTest - 2018.10.25 at 11h 02m 08s.xml">
+    <history-entry file="MySpeedDemonTest - 2018.10.25 at 23h 05m 11s.xml">
       <configuration name="MySpeedDemonTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MySpeedDemonTest - 2018.10.25 at 11h 10m 41s.xml">
+    <history-entry file="MySpeedDemonTest - 2018.10.25 at 23h 06m 03s.xml">
+      <configuration name="MySpeedDemonTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MySpeedDemonTest - 2018.10.25 at 23h 06m 59s.xml">
+      <configuration name="MySpeedDemonTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MySpeedDemonTest - 2018.10.25 at 23h 07m 26s.xml">
+      <configuration name="MySpeedDemonTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MySpeedDemonTest - 2018.10.26 at 02h 13m 08s.xml">
+      <configuration name="MySpeedDemonTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MySpeedDemonTest - 2018.10.26 at 02h 16m 24s.xml">
+      <configuration name="MySpeedDemonTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MySpeedDemonTest - 2018.10.26 at 02h 16m 56s.xml">
+      <configuration name="MySpeedDemonTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MySpeedDemonTest - 2018.10.26 at 02h 18m 23s.xml">
+      <configuration name="MySpeedDemonTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MySpeedDemonTest - 2018.10.26 at 03h 56m 17s.xml">
+      <configuration name="MySpeedDemonTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MySpeedDemonTest - 2018.10.26 at 03h 56m 36s.xml">
       <configuration name="MySpeedDemonTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17906000" />
+    <option name="totallyTimeSpent" value="30349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="788" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2680965" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27181688" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,7 +397,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32980973" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32650602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37831324" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -476,9 +430,9 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MySpeedDemon.java</url>
-          <line>47</line>
+          <line>104</line>
           <properties />
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -495,13 +449,6 @@
     <entry file="file://$PROJECT_DIR$/TestDB_3.out" />
     <entry file="file://$PROJECT_DIR$/TestDB_2.out" />
     <entry file="file://$PROJECT_DIR$/TestDB_5.out" />
-    <entry file="file://$PROJECT_DIR$/TestDB_4.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestDB_4.out" />
     <entry file="file://$PROJECT_DIR$/../../../Discussion Groups/IVLE%3a_CS2040%3a_Discussion_Group_Week_9_Code/Week9_Part2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -528,20 +475,6 @@
     <entry file="file://$PROJECT_DIR$/../../../Discussion Groups/DG9(2)/src/AdjListGraph.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StopWatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/testng/lib/testng.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -556,6 +489,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestDB_1.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDB_5.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StopWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MySpeedDemonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -563,23 +517,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestDB_1.in">
+    <entry file="file://$PROJECT_DIR$/TestDB_4.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="375">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestDB_5.in">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MySpeedDemon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        <state relative-caret-position="225">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#635#643#0" expanded="true" />
           </folding>
         </state>
       </provider>
